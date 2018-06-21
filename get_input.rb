@@ -1,2 +1,3 @@
 spirit_animals ={
-  :january
+  :january => "polar bear"
+  :febu
