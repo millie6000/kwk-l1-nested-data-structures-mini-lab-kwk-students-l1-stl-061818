@@ -1,1 +1,2 @@
-def spri
+def spirit_animals
+  
