@@ -1,3 +1,2 @@
-spirit_animals
-  months_to_animals = {
-    :january => "polar bear"
+spirit_animals ={
+  :january
