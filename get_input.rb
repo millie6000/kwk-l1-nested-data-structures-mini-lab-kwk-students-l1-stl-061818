@@ -1,6 +1,7 @@
 spirit_animals ={
   :january => "polar bear"
-  :febuary => 
+  :febuary => "
+  "
   :april
   :may 
   :june
